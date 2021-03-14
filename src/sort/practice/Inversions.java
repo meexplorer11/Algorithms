@@ -8,7 +8,7 @@ package sort.practice;
  */
 public class Inversions {
 
-	//O(n*2)
+	//Brute force -> O(n*2)
 	public static void main(String[] args) {
 		int[] a = {2, 3, 8, 6, 1};
 		
